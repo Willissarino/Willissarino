@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Willissarino/Willissarino/output/snake.svg" alt="Snake animation" />
-
 ###
